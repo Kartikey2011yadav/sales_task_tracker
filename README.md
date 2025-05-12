@@ -30,6 +30,26 @@ A Flutter mobile app for field salespersons to **log tasks offline** and **sync 
 
 ---
 
+## 📸 Screenshots
+
+### 🧭 Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### 📝 Add New Task
+![Add Task](screenshots/AddTasks.png)
+
+### 📋 Task List
+![Task List](screenshots/AllTasks.png)
+
+### 📋 Task Syncing 
+![Task List](screenshots/TaskSync.png)
+
+### 📋 Task Details 
+![Task List](screenshots/details.png)
+
+
+---
+
 ## 📦 Tech Stack
 
 - **Flutter**
