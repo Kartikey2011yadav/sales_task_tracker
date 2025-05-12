@@ -54,6 +54,17 @@ A Flutter mobile app for field salespersons to **log tasks offline** and **sync 
 
 ---
 
+## 📦 APK Download
+
+You can download and install the latest version of the app from the link below:
+
+👉 [Download Sales Task Tracker APK](./apk/app-debug.apk)
+
+> ⚠️ Make sure to allow installations from unknown sources on your Android device.
+
+
+---
+
 ## 🛠️ Setup Instructions
 
 1. **Clone this repo**:
