@@ -71,3 +71,31 @@ You can download and install the latest version of the app from the link below:
    ```bash
    git clone https://github.com/Kartikey2011yadav/sales_task_tracker.git
    cd sales_task_tracker
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   flutter pub get
+   ```
+
+3. **Add Firebase configuration**:
+   - Download `google-services.json` from your Firebase Console.
+   - Place it in the `android/app/` directory.
+
+4. **Run the app**:
+   ```bash
+   flutter run
+   ```
+
+5. *(Optional)* To build the APK:
+   ```bash
+   flutter build apk --release
+   ```
+
+6. **Locate the generated APK**:
+   ```
+   build/app/outputs/flutter-apk/app-release.apk
+   ```
+
+---
+
